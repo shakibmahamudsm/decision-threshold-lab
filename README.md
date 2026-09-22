@@ -2,10 +2,10 @@
 
 **Two ways to fix an imbalanced classifier. An interactive demo of why you only need one.**
 
-[![tests](https://github.com/USERNAME/decision-threshold-lab/actions/workflows/tests.yml/badge.svg)](https://github.com/USERNAME/decision-threshold-lab/actions/workflows/tests.yml)
+[![tests](https://github.com/shakibmahamudsm/decision-threshold-lab/actions/workflows/tests.yml/badge.svg)](https://github.com/shakibmahamudsm/decision-threshold-lab/actions/workflows/tests.yml)
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](STREAMLIT_URL_HERE)
 
-> 🔗 **[Live demo](STREAMLIT_URL_HERE)** · Companion project: **[Soft Voting Mixer](https://github.com/USERNAME/soft-voting-mixer)**
+> 🔗 **[Live demo](STREAMLIT_URL_HERE)** · Companion project: **[Soft Voting Mixer](https://github.com/shakibmahamudsm/soft-voting-mixer)**
 
 ---
 
@@ -123,7 +123,7 @@ This has three consequences that matter for a free-tier deploy:
 ## Run it locally
 
 ```bash
-git clone https://github.com/USERNAME/decision-threshold-lab.git
+git clone https://github.com/shakibmahamudsm/decision-threshold-lab.git
 cd decision-threshold-lab
 python3.13 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
