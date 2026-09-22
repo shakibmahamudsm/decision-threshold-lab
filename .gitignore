@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Full dataset — far too large for git. See README for how to obtain it.
+data/full/
+
+# The tiny format-reference sample in data/sample/ IS committed.
+!data/sample/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.ipynb_checkpoints/
+
+# NOTE: assets/*.npy ARE committed on purpose — they are what makes the app
+# run instantly after a clone, with no training and no large data download.

@@ -1,0 +1,7 @@
+# Runtime dependencies for the Streamlit app.
+# The app never trains and never unpickles a model, so scikit-learn is NOT
+# needed here. That keeps the deploy small and removes any risk of a
+# model/library version mismatch at load time.
+streamlit==1.64.0
+numpy==2.5.3
+plotly==7.1.0

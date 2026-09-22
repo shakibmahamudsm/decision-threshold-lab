@@ -1,0 +1,6 @@
+# Only needed to regenerate assets/ with prepare_data.py.
+# Streamlit Cloud does not install these.
+-r requirements.txt
+scikit-learn==1.9.1
+pandas==3.0.6
+iterative-stratification==0.1.9
