@@ -3,9 +3,11 @@
 **Two ways to fix an imbalanced classifier. An interactive demo of why you only need one.**
 
 [![tests](https://github.com/shakibmahamudsm/decision-threshold-lab/actions/workflows/tests.yml/badge.svg)](https://github.com/shakibmahamudsm/decision-threshold-lab/actions/workflows/tests.yml)
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](STREAMLIT_URL_HERE)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://decision-threshold-lab.streamlit.app/)
 
-> 🔗 **[Live demo](STREAMLIT_URL_HERE)** · Companion project: **[Soft Voting Mixer](https://github.com/shakibmahamudsm/soft-voting-mixer)**
+> 🔗 **[Live demo](https://decision-threshold-lab.streamlit.app/)** · Companion project: **[Soft Voting Mixer](https://github.com/shakibmahamudsm/soft-voting-mixer)**
+>
+> <sub>Hosted on Streamlit's free tier. If the app has gone to sleep after a quiet spell, click the wake button — it takes about 30 seconds.</sub>
 
 ---
 
